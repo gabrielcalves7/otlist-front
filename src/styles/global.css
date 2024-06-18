@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-element {
+    background-image: var(--tw-gradient-linear-gradient-example); /* Tailwind will replace this with the actual gradient definition */
+}
+
+.cuzinho {
+    background: aquamarine;
+}
